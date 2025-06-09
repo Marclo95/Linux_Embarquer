@@ -117,7 +117,7 @@ Puis on lance les commandes depuis le dossier /home/ensea/linux-socfpga
  
 — Quel est le rôle des lignes commençant par export ?
 Pour créer les variables CROSS_COMPILE et ARCH ce que on utilise dans prepare et scripts.
- 
+ https://github.com/Marclo95/Linux_Embarquer/blob/239954ed17c6299ac9b533608103e9df49cddb0a/Capture%20d'%C3%A9cran%202025-06-07%20001949.png
 — Pourquoi le chemin fini par un tiret "-"
 C'est pour éviter d'appeler uniquement gcc. En d'autres termes, cela permet d'appeler le chemin complet /usr/bin/arm-linux-gnueabihf avec le gcc.
  
