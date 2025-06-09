@@ -63,13 +63,14 @@ D'abord, il faut choisir le "Dossiers partagés" dans le bon source par "Configu
  
 Après complication, on utilise "scp hello.o root@192.168.0.240:~/" pour copier le fichier hello.o sur la carte VEEK. Puis "./hello.o" sur terminal pour éxcuter le programme hello.c. Le résultat est :
 https://github.com/Marclo95/Linux_Embarquer/blob/6ee75a9345dc0d53b751efba1476e8716d6a47de/Capture%20d'%C3%A9cran%202025-06-07%20001725.png
- 
+
 1.4.4 Accès au matériel
 On a fait dans la partie 1.4.1.
 
 1.4.5 Chenillard
 On le fait led.c et réalsé correcetment.
- 
+ https://github.com/Marclo95/Linux_Embarquer/blob/22c6d4637fceda0ce28c3547f1c9c09e04f27748/chenillard.png
+ https://github.com/Marclo95/Linux_Embarquer/blob/22c6d4637fceda0ce28c3547f1c9c09e04f27748/led.png
 2 Modules kernel (TP2)
 2.1 Accès aux registres
 
