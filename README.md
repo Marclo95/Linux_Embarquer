@@ -14,7 +14,7 @@ https://github.com/Marclo95/Linux_Embarquer/blob/6ee75a9345dc0d53b751efba1476e87
  
 1.3.3 Configuration réseau
 Après ifconfig, on peut voir que les états des réseau, eth0 est par Ethernet.
-
+https://github.com/Marclo95/Linux_Embarquer/blob/d52b02caaefe1e6b1d0b3d5d2ebdd9c6e1427be6/IFCONFIG.png
  
 Ensuite, on modifie le fichier /etc/network/interfaces en utilisant les étapes dans le tp :
 https://github.com/Marclo95/Linux_Embarquer/blob/6ee75a9345dc0d53b751efba1476e8716d6a47de/Capture%20d'%C3%A9cran%202025-06-07%20001343.png
